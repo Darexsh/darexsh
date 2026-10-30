@@ -123,12 +123,6 @@
   <img height="170" src="profile/stats.svg" alt="GitHub stats for Darexsh" />
   <img height="170" src="profile/top-langs.svg" alt="Most used languages across public repositories" />
 </div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=darexsh&theme=tokyonight&hide_border=true" />
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darexsh&custom_title=darexsh%27s%20Contribution%20Graph&theme=tokyo-night&hide_border=true" width="95%" />
-</div>
 
 <h2>Current Focus</h2>
 <p align="center">
