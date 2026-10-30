@@ -104,6 +104,12 @@
   <tr><td><a href="https://github.com/darexsh/RGB-Ringlight">RGB-Ringlight</a></td><td>Analog RGB ringlight with classic chaser circuitry and custom PCB production flow.</td></tr>
 </table>
 
+<h3>Team & Web Tools</h3>
+<table>
+  <tr><th>Project</th><th>Highlights</th></tr>
+  <tr><td><a href="https://github.com/darexsh/Parcel_Desk">Parcel_Desk</a></td><td>Bilingual, self-hosted order and shopping cart management with group access, Mouser XLS import, shipment tracking, and Telegram notifications.</td></tr>
+</table>
+
 <h3>Dev Tools & Automation</h3>
 <table>
   <tr><th>Project</th><th>Highlights</th></tr>
@@ -114,8 +120,8 @@
 
 <h2>GitHub Snapshot</h2>
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=darexsh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darexsh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="profile/stats.svg" alt="GitHub stats for Darexsh" />
+  <img height="170" src="profile/top-langs.svg" alt="Most used languages across public repositories" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=darexsh&theme=tokyonight&hide_border=true" />
@@ -126,14 +132,14 @@
 
 <h2>Current Focus</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Now-Building%20High--Utility%20Android%20Apps-16a34a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Now-Integrated%20Hardware%20%2B%20Software-0284c7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Now-KiCad%20Workflow%20Tooling-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/Now-Practical%20Team%20Tools-16a34a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Now-Self--Hosted%20Infrastructure-0284c7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Now-Embedded%20Engineering-7c3aed?style=flat-square" />
 </p>
 <ul>
-  <li>Expanding a focused portfolio of high-utility Android applications.</li>
-  <li>Building integrated hardware/software systems with robust deployment flow.</li>
-  <li>Improving KiCad-centered tooling for faster and cleaner maker workflows.</li>
+  <li>Building practical software tools, including Parcel Desk for shared order workflows.</li>
+  <li>Building integrated hardware/software systems with robust deployment workflows.</li>
+  <li>Continuing integrated hardware/software and KiCad-centered tooling projects.</li>
 </ul>
 
 <hr/>
@@ -141,5 +147,5 @@
 <div align="center">
   <sub>Darexsh by Daniel Sichler · Explore the repositories, or follow project updates through my Telegram bot.</sub>
   <br/>
-  <sub>Last updated: 2026-04-15</sub>
+  <sub>Last updated: 2026-10-30</sub>
 </div>
